@@ -76,5 +76,6 @@ void main() {
 	}
 	getchar();
 	getchar();
-system pause 0;
+system ("pause")
+return 0;
 } 
