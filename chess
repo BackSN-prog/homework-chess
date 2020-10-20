@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+#include<conio.h>
 void main() {
 	int x1 = 0, y1 = 0, x2 = 0, y2 = 0, a = 0;
 	do {
@@ -76,4 +76,5 @@ void main() {
 	}
 	getchar();
 	getchar();
+system pause 0;
 } 
